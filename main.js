@@ -12,7 +12,7 @@ function createWindow() {
     },
   })
 
-  win.loadURL('https://ai.woftsun.cn')
+  win.loadURL('https://chat2.xniaocloud.com')
 }
 
 app.whenReady().then(createWindow)
