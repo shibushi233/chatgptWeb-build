@@ -5,7 +5,7 @@
   "main": "main.js",
   "build": {
     "appId": "com.example.my-electron-app",
-    "productName": "太阳以西",
+    "productName": "星造AI",
     "directories": {
       "output": "build"
     },
